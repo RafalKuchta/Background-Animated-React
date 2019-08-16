@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50eab5e0b724680a5eef11fff6bd28e2",
+    "revision": "15709ec63f2c6d29e8a87d8768f0d475",
     "url": "/Background-Animated-React/index.html"
   },
   {
-    "revision": "7ea2ce3e3c9e0ca2c700",
+    "revision": "6aee1f90b511fc47ac9f",
     "url": "/Background-Animated-React/static/css/main.bfabc67d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Background-Animated-React/static/js/2.c5b96339.chunk.js"
   },
   {
-    "revision": "7ea2ce3e3c9e0ca2c700",
-    "url": "/Background-Animated-React/static/js/main.e5f19d49.chunk.js"
+    "revision": "6aee1f90b511fc47ac9f",
+    "url": "/Background-Animated-React/static/js/main.cbaf2292.chunk.js"
   },
   {
     "revision": "2d60677ab2fde26e7300",
