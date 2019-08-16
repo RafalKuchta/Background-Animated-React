@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RafalKuchta/Background-Animated-React/static/css/main.bfabc67d.chunk.css",
-    "main.js": "/RafalKuchta/Background-Animated-React/static/js/main.8ca7cd16.chunk.js",
-    "main.js.map": "/RafalKuchta/Background-Animated-React/static/js/main.8ca7cd16.chunk.js.map",
-    "runtime~main.js": "/RafalKuchta/Background-Animated-React/static/js/runtime~main.d3af4d03.js",
-    "runtime~main.js.map": "/RafalKuchta/Background-Animated-React/static/js/runtime~main.d3af4d03.js.map",
-    "static/js/2.c5b96339.chunk.js": "/RafalKuchta/Background-Animated-React/static/js/2.c5b96339.chunk.js",
-    "static/js/2.c5b96339.chunk.js.map": "/RafalKuchta/Background-Animated-React/static/js/2.c5b96339.chunk.js.map",
-    "index.html": "/RafalKuchta/Background-Animated-React/index.html",
-    "precache-manifest.ac92aa9cfbb7f59cdea7af2b4b842451.js": "/RafalKuchta/Background-Animated-React/precache-manifest.ac92aa9cfbb7f59cdea7af2b4b842451.js",
-    "service-worker.js": "/RafalKuchta/Background-Animated-React/service-worker.js",
-    "static/css/main.bfabc67d.chunk.css.map": "/RafalKuchta/Background-Animated-React/static/css/main.bfabc67d.chunk.css.map"
+    "main.css": "/Background-Animated-React/static/css/main.bfabc67d.chunk.css",
+    "main.js": "/Background-Animated-React/static/js/main.e5f19d49.chunk.js",
+    "main.js.map": "/Background-Animated-React/static/js/main.e5f19d49.chunk.js.map",
+    "runtime~main.js": "/Background-Animated-React/static/js/runtime~main.08da3730.js",
+    "runtime~main.js.map": "/Background-Animated-React/static/js/runtime~main.08da3730.js.map",
+    "static/js/2.c5b96339.chunk.js": "/Background-Animated-React/static/js/2.c5b96339.chunk.js",
+    "static/js/2.c5b96339.chunk.js.map": "/Background-Animated-React/static/js/2.c5b96339.chunk.js.map",
+    "index.html": "/Background-Animated-React/index.html",
+    "precache-manifest.0a83710a6b237119ae9fe35424da6d80.js": "/Background-Animated-React/precache-manifest.0a83710a6b237119ae9fe35424da6d80.js",
+    "service-worker.js": "/Background-Animated-React/service-worker.js",
+    "static/css/main.bfabc67d.chunk.css.map": "/Background-Animated-React/static/css/main.bfabc67d.chunk.css.map"
   }
 }
